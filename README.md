@@ -1,2 +1,2 @@
 # ini adalah latihan repository untuk menambahkan branch baru di GitHub
-ini main
+ini development
